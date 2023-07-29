@@ -60,7 +60,7 @@ O sistema Your-Pet foi desenvolvido utilizando as seguintes tecnologias:
 
 - Front-end: ReactJS, Leaflet (para mapas), Material-UI (Design System), HTML5, CSS3.
 - Back-end: Python, FastAPI (framework web), SQLAlchemy (ORM - Object-Relational Mapping).
-- Banco de Dados: PostgreSQL (ou outra opção compatível).
+- Banco de Dados: PostgreSQL.
 - Autenticação e Armazenamento de Imagens: Firebase (Firebase Auth e Firebase Storage).
 - Hospedagem: Front-end hospeado na vercel e back-end na Okteto. Back-end será migrado para vercel posteriormente
 
