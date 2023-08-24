@@ -1,6 +1,8 @@
 # Your-Pet: Plataforma para Localizar Locais Pet Friendly
 # Descrição
-O Your-Pet é uma plataforma desenvolvida com o objetivo de auxiliar tutores de animais de estimação a encontrarem locais e empresas pet friendly. Com a crescente integração dos animais de estimação ao convívio familiar, é essencial que os tutores possam localizar facilmente estabelecimentos que permitam a presença de seus pets, proporcionando momentos de lazer e interação entre ambos.
+Durante a 5ª fase do nosso curso de Análise e Desenvolvimento de Sistemas, realizamos um projeto significativo que viria a se tornar o marco de nossa jornada acadêmica. Desenvolvemos a Your-Pet como parte do nosso Trabalho de Conclusão do Semestre (TCS), uma aplicação inovadora que aborda uma necessidade crescente na sociedade.
+
+A plataforma que agora apresentamos nasceu da nossa dedicação durante a graduação, que resultou em nossa formatura em agosto de 2023, após a conclusão do curso em julho do mesmo ano. A Your-Pet é uma plataforma desenvolvida com o objetivo de auxiliar tutores de animais de estimação a encontrarem locais e empresas pet friendly. Com a crescente integração dos animais de estimação ao convívio familiar, é essencial que os tutores possam localizar facilmente estabelecimentos que permitam a presença de seus pets, proporcionando momentos de lazer e interação entre ambos.
 
 # Equipe:
 
